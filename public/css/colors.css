@@ -1,0 +1,41 @@
+/*
+==================================
+	Theme Background color
+==================================
+*/
+.aa{
+
+	background: #dc0414;
+}
+
+/*
+==================================
+	Theme Border color
+==================================
+*/
+.aa{
+	border-color: #dc0414;
+}
+
+/*
+==================================
+	Theme color
+==================================
+*/
+.aa{
+	color: #dc0414;
+}
+
+
+/*
+==================================
+	Theme transition
+==================================
+*/
+.aa{
+	transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	-o-transition:all 0.2s ease-in-out;
+	-webkit-transition:all 0.2s ease-in-out;
+}
